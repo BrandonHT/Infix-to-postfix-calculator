@@ -6,5 +6,5 @@ The main objective of this project is to develop a calculator that could perform
 
 **Authors:**
 * Hernández Troncoso, Brandon Francisco.
-* Reyes Pérez, Ana Silvia
-* Velasco Gallardo, Amanda
+* Reyes Pérez, Ana Silvia.
+* Velasco Gallardo, Amanda.
